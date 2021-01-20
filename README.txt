@@ -1,11 +1,13 @@
-#this website for traning
+# this website for traning
 
-##Features :
+## Features :
 
-1it bulid by angular js and mdbootstrap
+1 it bulid by angular js and mdbootstrap
 
-2its single page application
+2 its single page application
 
-3its all responsive
+3 its all responsive
+
+
 
 
