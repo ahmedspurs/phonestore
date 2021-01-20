@@ -2,11 +2,11 @@
 
 ## Features :
 
-1 it bulid by angular js and mdbootstrap
+1- it bulid by angular js and mdbootstrap
 
-2 its single page application
+2- its single page application
 
-3 its all responsive
+3- its all responsive
 
 
 
