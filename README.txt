@@ -1,25 +1,11 @@
-Material Design for Bootstrap
-Version: MDB FREE 4.19.1
+# this website for traning
 
-Documentation:
-https://mdbootstrap.com/
+## Features :
 
-Getting started:
-https://mdbootstrap.com/docs/jquery/getting-started/download/
+1 it bulid by angular js and mdbootstrap
 
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/
-MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
+2 its single page application
 
-Templates:
-https://mdbootstrap.com/templates/
+3 its all responsive
 
-License:
-https://mdbootstrap.com/general/license/
-
-Support:
-https://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
 
